@@ -18,5 +18,5 @@ while commands[opcode] != 99:
 
     opcode += 4
 
-print(f"Position 0 containts: {commands[0]}")
+print(f"Position 0 contains: {commands[0]}")
 
